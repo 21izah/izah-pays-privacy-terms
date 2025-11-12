@@ -3,6 +3,8 @@ import PrivacyPolicy from "./privacy_policy.jsx";
 import TermsAndConditions from "./termsAndConditions.jsx";
 import AccountDeletionRequest from "./accountDeletionRequest.jsx";
 
+
+
 function App() {
   return (
     <Router>
